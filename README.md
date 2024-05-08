@@ -22,8 +22,8 @@ Step5:
 print the characters and its huffmancode
 ## Program:
 ```
-Developed By:ONTEDDU SIRISHA
-Register Number:212222230103
+Developed By:A K MOHAN RAJ
+Register Number:212221230064
 ```
 
 # Get the input String
